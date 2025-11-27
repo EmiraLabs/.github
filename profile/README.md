@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/emiralabs-ico.svg" alt="EmiraLabs Logo" width="120" height="120">
+  <img src="emiralabs-ico.svg" alt="EmiraLabs Logo" width="120" height="120">
   <h1>EmiraLabs</h1>
   <p><strong>Architecting Tomorrow's Solutions</strong></p>
   <p>Leading software engineering consultancy specializing in full-stack development, cloud infrastructure, and digital transformation.</p>
